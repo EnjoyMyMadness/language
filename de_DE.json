@@ -1,0 +1,9 @@
+{
+	"name": "Deutsch",
+	"localeCode": "de_DE",
+	"contributors": ["ceepkev77", "SyntaxPE"],
+	"prefix": "ZeferaMC | ",
+	"values": {
+		"kick.message.maintenance": "§cServer ist in Wartungsarbeiten!"
+	}
+}
