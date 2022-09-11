@@ -2,9 +2,10 @@
 	"name": "Deutsch",
 	"localeCode": "de_DE",
 	"contributors": ["ceepkev77", "SyntaxPE"],
-	"prefix": "ZeferaMC | ",
+	"prefix": "§eZefera§6MC §8»§r ",
 	"values": {
 		"kick.message.maintenance": "§cServer ist in Wartungsarbeiten!",
-		"party.created.successfully": "§aDu hast deine Party erfolgreich erstellt!"
+		"party.created.successfully": "§aDu hast deine Party erfolgreich erstellt!",
+		"command.ping.result": "{PREFIX}§aDu hast einen {RESULT} Ping!"
 	}
 }
