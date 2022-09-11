@@ -5,6 +5,6 @@
 	"prefix": "ZeferaMC | ",
 	"values": {
 		"kick.message.maintenance": "§cServer ist in Wartungsarbeiten!",
-		"party.created.successfully": "{PREFIX}§aDu hast deine Party erfolgreich erstellt! {ID}"
+		"party.created.successfully": "§aDu hast deine Party erfolgreich erstellt!"
 	}
 }
