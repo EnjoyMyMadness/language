@@ -4,6 +4,7 @@
 	"contributors": ["ceepkev77", "SyntaxPE"],
 	"prefix": "ZeferaMC | ",
 	"values": {
-		"kick.message.maintenance": "§cServer ist in Wartungsarbeiten!"
+		"kick.message.maintenance": "§cServer ist in Wartungsarbeiten!",
+		"party.created.successfully": "{PREFIX}§aDu hast deine Party erfolgreich erstellt! {ID}"
 	}
 }
