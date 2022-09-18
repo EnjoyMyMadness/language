@@ -44,6 +44,12 @@
 		"player.added.coins.another": "&7Du hast &e{ADDPLAYER} &6{COINS} Coins &7gegeben!",
 		"joinme.create": "§b{PLAYER} §7hat ein JoinME in §b{SERVER} §7erstellt!{LINE} &7Benutze /joinme um nach zujoinen",
 		"joinme.cooldown": "&cDu kannst erst in &4{MINUTES} &cund &4{SECONDS} &cein weiteres Joinme erstellen!",
-		"command.build.enabled": "{PREFIX}&aDu kannst nun Bauen!"
+		"command.build.enabled": "{PREFIX}&aDu kannst nun Bauen!",
+		"message.notPermissions": "&cDu hast keine Berechtigung!",
+		"clan.name.already.exists": "&cDer Clanname existiert bereits!",
+		"clan.tag.already.exists": "&cDer Clantag existiert bereits!",
+		"clan.cannot.transfer.yourself": "&cDu kannst dein Clan nicht dir Selbst übertragen!",
+		"clan.member.notInClan": "&cDieser Spieler ist nicht im Clan!",
+		"clan.error.message": "&cEs ist ein Fehler aufgetreten!"
 	}
 }
