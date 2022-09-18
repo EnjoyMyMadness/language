@@ -21,7 +21,11 @@
 		"clan.tag.onlyChars": "&cDer Clantag ist zu lang!",
 		"clan.name.onlyChars": "&cDer Clanname ist zu lang!",
 		"clan.success.join": "&aDu bist erfolgreich den &e{CLAN} &abeigetreten!",
-		"clan.member.settings.saved": "&eDeine Einstellungen wurden erfolgreich übernommen!"
-
+		"clan.member.settings.saved": "&eDeine Einstellungen wurden erfolgreich übernommen!",
+        "clan.confirm.leave": "&4&lBist du sicher das du &e{CLAN} &4verlassen möchtest?",
+		"clan.promoted.member.success": "&7Du hast den Spieler &b{PROMOTED_PLAYER} &7befördert!",
+		"clan.degradation.member.success": "&cDu hast den Spieler &e{DEGRADED_PLAYER} &cdegradiert!",
+		"clan.confirm.kick.member": "&c&lBist du sicher das du &e{KICKED_PLAYER} &caus dem Clan rauswerfen willst?",
+		"clan.kicked.member.success": "&cDu hast &e{KICKED_PLAYER} &cerfolgreich aus dem Clan geworfen!"
 	}
 }
