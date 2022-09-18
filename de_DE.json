@@ -6,6 +6,8 @@
 	"values": {
 		"kick.message.maintenance": "§cServer ist in Wartungsarbeiten!",
 		"party.created.successfully": "§aDu hast deine Party erfolgreich erstellt!",
-		"command.ping.result": "{PREFIX}§aDu hast einen {RESULT} Ping!"
+		"command.ping.result": "{PREFIX}§aDu hast einen {RESULT} Ping!",
+		"game.death.by.player": "&c{KILLED} &7has been killed by &c{KILLER}&7.",
+		
 	}
 }
