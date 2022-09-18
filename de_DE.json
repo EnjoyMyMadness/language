@@ -8,5 +8,20 @@
 		"party.created.successfully": "§aDu hast deine Party erfolgreich erstellt!",
 		"command.ping.result": "{PREFIX}§aDu hast einen {RESULT} Ping!",
 		"game.death.by.player": "&c{KILLED} &7has been killed by &c{KILLER}&7.",
+		"transfer.server.success": "{PREFIX}&7Transferiere zu {SERVER}...",
+        "party.confirm.delete": "&cBist du sicher das du die Party löschen willst?",
+		"player.already.another.party": "&c{PLAYER} ist bereits in einer anderen Party!",
+		"player.not.registered": "&c{PLAYER} ist &4offline!",
+		"player.invited.another": "&cErfolgreich {PLAYER} in deine Party eingeladen!",
+		"party.join": "&b{PLAYER} &7ist der Party beigetreten!",
+		"party.success.join": "&aDu bist erfolgreich der Party beigetreten!",
+		"clan.created.successfully": "&aDu hast deinen Clan erfolgreich erstellt!",
+		"clan.confirm.delete": "&4&lBist du sicher das du den Clan löschen willst?",
+		"clan.deleted.successfully": "&cDu hast erfolgreich dein Clan &4gelöscht&c!",
+		"clan.tag.onlyChars": "&cDer Clantag ist zu lang!",
+		"clan.name.onlyChars": "&cDer Clanname ist zu lang!",
+		"clan.success.join": "&aDu bist erfolgreich den &e{CLAN} &abeigetreten!",
+		"clan.member.settings.saved": "&eDeine Einstellungen wurden erfolgreich übernommen!"
+
 	}
 }
