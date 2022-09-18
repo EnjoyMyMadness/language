@@ -26,6 +26,19 @@
 		"clan.promoted.member.success": "&7Du hast den Spieler &b{PROMOTED_PLAYER} &7befördert!",
 		"clan.degradation.member.success": "&cDu hast den Spieler &e{DEGRADED_PLAYER} &cdegradiert!",
 		"clan.confirm.kick.member": "&c&lBist du sicher das du &e{KICKED_PLAYER} &caus dem Clan rauswerfen willst?",
-		"clan.kicked.member.success": "&cDu hast &e{KICKED_PLAYER} &cerfolgreich aus dem Clan geworfen!"
+		"clan.kicked.member.success": "&cDu hast &e{KICKED_PLAYER} &cerfolgreich aus dem Clan geworfen!",
+		"player.already.another.clan": "&cDer Spieler &e{PLAYER} &cist bereits in &e{CLAN}&c!",
+		"channel.toggle.team": "&cTeam",
+		"channel.toggle.report": "&cReport",
+		"channel.toggle.cloud": "&cCloud",
+        "channel.toggle.anticheat": "&cAnticheat",
+		"player.partyless": "&cDu bist in keiner Party!",
+		"player.clanless": "&cDu bist in keinem Clan!",
+		"transfer.server.cant.join": "{PREFIX}&cDu kannst dich nicht auf &e{SERVER} &cverbinden!",
+		"networkinfo.title.name": "&e&lNetzwerk Information",
+		"command.networkinfo.result": "{PREFIX}&7Es sind zurzeit &e{REGPLAYERS} &7Spieler registriert!",
+		"coins.see": "&7Du hast zurzeit &6{COINS} &7Coins!",
+        "player.removed.coins.another": "&7Du hast &b{REMOVEPLAYER} &6{COINS} &7weggenommen!",
+		"player.set.coins.another"
 	}
 }
