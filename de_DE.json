@@ -50,6 +50,7 @@
 		"clan.tag.already.exists": "&cDer Clantag existiert bereits!",
 		"clan.cannot.transfer.yourself": "&cDu kannst dein Clan nicht dir Selbst übertragen!",
 		"clan.member.notInClan": "&cDieser Spieler ist nicht im Clan!",
-		"clan.error.message": "&cEs ist ein Fehler aufgetreten!"
+		"clan.error.message": "&cEs ist ein Fehler aufgetreten!",
+		"party.error.message": "&cEs ist ein Fehler aufgetreten!"
 	}
 }
