@@ -48,7 +48,7 @@
 		"message.notPermissions": "&cDu hast keine Berechtigung!",
 		"clan.name.already.exists": "&cDer Clanname existiert bereits!",
 		"clan.tag.already.exists": "&cDer Clantag existiert bereits!",
-		"clan.cannot.transfer.yourself": "&cDu kannst deinen Clan nicht dir selbst übertragen!",
+		"clan.cannot.transfer.yourself": "&cDu kannst deinen Clan dir nicht selbst übertragen!",
 		"clan.member.notInClan": "&cDieser Spieler ist nicht im Clan!",
 		"clan.error.message": "&cEs ist ein Fehler aufgetreten!",
 		"party.error.message": "&cEs ist ein Fehler aufgetreten!"
