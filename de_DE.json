@@ -39,6 +39,11 @@
 		"command.networkinfo.result": "{PREFIX}&7Es sind zurzeit &e{REGPLAYERS} &7Spieler registriert!",
 		"coins.see": "&7Du hast zurzeit &6{COINS} &7Coins!",
         "player.removed.coins.another": "&7Du hast &b{REMOVEPLAYER} &6{COINS} &7weggenommen!",
-		"player.set.coins.another"
+		"player.set.coins.another": "&7Du hast die Coins von &e{TOPLAYER} auf &6{COINS} &7gesetzt!",
+		"saved.changes.message": "&eDeine Einstellungen wurden erfolgreich übernommen!",
+		"player.added.coins.another": "&7Du hast &e{ADDPLAYER} &6{COINS} Coins &7gegeben!",
+		"joinme.create": "§b{PLAYER} §7hat ein JoinME in §b{SERVER} §7erstellt!{LINE} &7Benutze /joinme um nach zujoinen",
+		"joinme.cooldown": "&cDu kannst erst in &4{MINUTES} &cund &4{SECONDS} &cein weiteres Joinme erstellen!",
+		"command.build.enabled": "{PREFIX}&aDu kannst nun Bauen!"
 	}
 }
