@@ -8,6 +8,7 @@
 		"party.created.successfully": "§aDu hast deine Party erfolgreich erstellt!",
 		"command.ping.result": "{PREFIX}§aDu hast einen {RESULT} Ping!",
 		"game.death.by.player": "&c{KILLED} &7has been killed by &c{KILLER}&7.",
+		"game.death.by.any": "&c{KILLED} &7ist gestorben!.",
 		"transfer.server.success": "{PREFIX}&7Transferiere zu {SERVER}...",
         "party.confirm.delete": "&cBist du dir sicher, dass du die Party löschen willst?",
 		"player.already.another.party": "&c{PLAYER} ist bereits in einer anderen Party!",
