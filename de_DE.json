@@ -52,6 +52,7 @@
 		"clan.cannot.transfer.yourself": "&cDu kannst deinen Clan dir nicht selbst übertragen!",
 		"clan.member.notInClan": "&cDieser Spieler ist nicht im Clan!",
 		"clan.error.message": "&cEs ist ein Fehler aufgetreten!",
-		"party.error.message": "&cEs ist ein Fehler aufgetreten!"
+		"party.error.message": "&cEs ist ein Fehler aufgetreten!",
+		"game.waiting.players": "&7Warten auf &b{NEEDED_PLAYER} Spieler§7..."
 	}
 }
