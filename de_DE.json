@@ -53,6 +53,10 @@
 		"clan.member.notInClan": "&cDieser Spieler ist nicht im Clan!",
 		"clan.error.message": "&cEs ist ein Fehler aufgetreten!",
 		"party.error.message": "&cEs ist ein Fehler aufgetreten!",
-		"game.waiting.players": "&7Warten auf &b{NEEDED_PLAYER} Spieler§7..."
+		"game.waiting.players": "&7Warten auf &b{NEEDED_PLAYER} Spieler§7...",
+		
+		"bossbar-advertisement-1": "§bUnser Hoster: §7https://prohosting24.de/a/zeferamc",
+		"bossbar-advertisement-2": "§bDiscord: §7http://discord.zeferamc.com",
+		"bossbar-advertisement-3": "§bProHosting24.de",
 	}
 }
