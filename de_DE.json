@@ -67,6 +67,10 @@
     "lobby.profile.friends": "§2Deine Freunde",
     "lobby.profile.party": "§5Starte eine Party",
     "lobby.profile.stats": "§gDeine Statistiken",
-    "lobby.profile.settings": "§bLobby Einstellungen"
+    "lobby.profile.settings": "§bLobby Einstellungen",
+    
+    "message.vote.not.found": "{PREFIX}§cDu hast noch nicht gevoted! Vote jetzt unter §bvote.zeferamc.com",
+    "message.vote.already.claimed": "{PREFIX}§cDu hast schon gevoted! Versuch es später nochmal!",
+    "message.vote.success.claimed": "{PREFIX}§aDu hast deine Belohnung erfolgreich abgeholt!"
   }
 }
