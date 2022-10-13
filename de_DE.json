@@ -71,6 +71,7 @@
     
     "message.vote.not.found": "{PREFIX}§cDu hast noch nicht gevoted! Tuh es jetzt unter §bvote.zeferamc.com",
     "message.vote.already.claimed": "{PREFIX}§cDu hast schon gevoted! Versuch es später nochmal!",
-    "message.vote.success.claimed": "{PREFIX}§aDu hast deine Belohnung erfolgreich abgeholt!"
+    "message.vote.success.claimed": "{PREFIX}§aDu hast deine Belohnung erfolgreich abgeholt!",
+    "vote.global.message": "§7{SENDER} §ahat gevoted und hat seine Belohnung erhalten! §bvote.zeferamc.com"
   }
 }
