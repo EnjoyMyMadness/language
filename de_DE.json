@@ -63,10 +63,10 @@
     "core.broadcast.2": "{PREFIX}§7Schon bemerkt? Wir sind derzeit auf der Suche nach Verstärkung im §2Team",
     "core.broadcast.3": "{PREFIX}§7Du willst die neuesten §2News und Updates §7nicht verpassen? Dann trete unseren §bDiscord §7Server unter discord.zeferamc.com bei!",
     
-    "lobby.profile.clan": "§6Manage Clan",
-    "lobby.profile.friends": "§2Your Friends",
-    "lobby.profile.party": "§5Make a Party",
-    "lobby.profile.stats": "§gYour Statistics",
-    "lobby.profile.settings": "§bLobby Settings"
+    "lobby.profile.clan": "§6Clan Verwalten",
+    "lobby.profile.friends": "§2Deine Freunde",
+    "lobby.profile.party": "§5Starte eine Party",
+    "lobby.profile.stats": "§gDeine Statistiken",
+    "lobby.profile.settings": "§bLobby Einstellungen"
   }
 }
