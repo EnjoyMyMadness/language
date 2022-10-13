@@ -4,6 +4,11 @@
 	"contributors": ["ceepkev77", "SyntaxPE"],
 	"prefix": "ZeferaMC | ",
 	"values": {
-		"kick.message.maintenance": "§cServer is in maintenance!"
+		"kick.message.maintenance": "§cServer is in maintenance!",
+		"lobby.profile.clan": "§6Manage Clan",
+		"lobby.profile.friends": "§2Your Friends",
+		"lobby.profile.party": "§5Make a Party",
+		"lobby.profile.stats": "§gYour Statistics",
+		"lobby.profile.settings": "§bLobby Settings"
 	}
 }
