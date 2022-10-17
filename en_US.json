@@ -1,10 +1,19 @@
 {
 	"name": "English",
 	"localeCode": "en_US",
-	"contributors": ["ceepkev77", "SyntaxPE"],
-	"prefix": "ZeferaMC | ",
+	"contributors": ["ceepkev77", "SyntaxPE", "zSALLAZAR"],
+	"prefix": "§eZefera§6MC §8»§r ",
 	"values": {
-		"kick.message.maintenance": "§cServer is in maintenance!",
+		"kick.message.maintenance": "§cZeferaMC is in maintenance!",
+
+		"game.death.by.player": "&c{KILLED} &7has been killed by &c{KILLER}&7!",
+		"game.death.by.any": "&c{KILLED} &7died!",
+
+		"channel.toggle.team": "&cTeam",
+		"channel.toggle.report": "&cReport",
+		"channel.toggle.cloud": "&cCloud",
+		"channel.toggle.anticheat": "&cAnticheat",
+
 		"lobby.profile.clan": "§6Manage Clan",
 		"lobby.profile.friends": "§2Your Friends",
 		"lobby.profile.party": "§5Make a Party",

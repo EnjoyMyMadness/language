@@ -1,25 +1,25 @@
 {
   "name": "Deutsch",
   "localeCode": "de_DE",
-  "contributors": ["ceepkev77", "SyntaxPE"],
+  "contributors": ["ceepkev77", "SyntaxPE", "zSALLAZAR"],
   "prefix": "§eZefera§6MC §8»§r ",
   "values": {
-    "kick.message.maintenance": "§cServer ist in Wartungsarbeiten!",
+    "kick.message.maintenance": "§cZeferaMC ist in Wartungsarbeiten!",
     
-    "game.death.by.player": "&c{KILLED} &7has been killed by &c{KILLER}&7.",
-    "game.death.by.any": "&c{KILLED} &7ist gestorben!.",
+    "game.death.by.player": "&c{KILLED} &7wurde von &c{KILLER}&7 getötet!",
+    "game.death.by.any": "&c{KILLED} &7ist gestorben!",
     
     "channel.toggle.team": "&cTeam",
     "channel.toggle.report": "&cReport",
     "channel.toggle.cloud": "&cCloud",
     "channel.toggle.anticheat": "&cAnticheat",
     
-    "party.created.successfully": "§aDu hast deine Party erfolgreich erstellt!",
+    "party.created.successfully": "§aDeine Party wurde erstellt!",
     "party.join": "&b{PLAYER} &7ist der Party beigetreten!",
-    "party.success.join": "&aDu bist erfolgreich der Party beigetreten!",
+    "party.success.join": "&aDu bist der Party von &g{OWNER} &7beigetreten!",
     "party.confirm.delete": "&cBist du dir sicher, dass du die Party löschen willst?",
     "player.already.another.party": "&c{PLAYER} ist bereits in einer anderen Party!",
-    "player.invited.another": "&c{PLAYER} wurde erfolgreich in deine Party eingeladen!",
+    "player.invited.another": "&c{PLAYER} wurde in deine Party eingeladen!",
     "player.partyless": "&cDu bist in keiner Party!",
     
     "player.not.registered": "&c{PLAYER} ist &4offline!",
