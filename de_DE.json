@@ -29,7 +29,7 @@
     "transfer.server.success": "{PREFIX}&7Transferiere zu {SERVER}...",
     "command.ping.result": "{PREFIX}§aDu hast einen {RESULT} Ping!",
     
-    "language.info": "§7Durch unserem erweitertem §bSprachsystemes §7musst du um deine Sprache zu wechseln, in deinen §gMinecraft-Einstellungen §7gehen. In dem Reiter §gSprache §7deine beliebige SSprache auswählen!",
+    "language.info": "§7Durch unserem erweitertem §bSprachsystemes §7musst du um deine Sprache zu wechseln, in deinen §gMinecraft-Einstellungen §7gehen. In dem Reiter §gSprache §7deine beliebige Sprache auswählen!",
     "language.info.2": "§7Derzeit unterstützen wir nur die Sprachen (§g{ONLY_TRANSLATED_LANGUAGES}§7)!",
     
     "networkinfo.title.name": "&e&lNetzwerk Information",
