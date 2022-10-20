@@ -87,6 +87,7 @@
     "vote.global.message": "§7{SENDER} §ahat gevoted und hat seine Belohnung erhalten! §bvote.zeferamc.com",
     
     "cloud.match.starting.in": "§aRunde startet in §e{SECONDS} §aSekunden",
-    "cloud.information.not.found": "§cKeine Cloud-Ergebnisse gefunden"
+    "cloud.information.not.found": "§cKeine Cloud-Ergebnisse gefunden",
+    "cloud.map.info": "§aAktuelle wird §e{MAP} §agespielt!"
   }
 }
