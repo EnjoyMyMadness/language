@@ -88,6 +88,6 @@
     
     "cloud.match.starting.in": "§aRunde startet in §e{SECONDS} §aSekunden",
     "cloud.information.not.found": "§cKeine Cloud-Ergebnisse gefunden",
-    "cloud.map.info": "§aAktuelle wird §e{MAP} §agespielt!"
+    "cloud.map.info": "§aDie aktuelle Map ist: §e{MAP}"
   }
 }
