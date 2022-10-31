@@ -80,6 +80,7 @@
     "lobby.profile.party": "§5Starte eine Party",
     "lobby.profile.stats": "§gDeine Statistiken",
     "lobby.profile.settings": "§bLobby Einstellungen",
+    "lobby.ui.marketplace": "Marktplatz",
     
     "message.vote.not.found": "{PREFIX}§cDu hast noch nicht gevoted! Tuh es jetzt unter §bvote.zeferamc.com",
     "message.vote.already.claimed": "{PREFIX}§cDu hast schon gevoted! Versuch es später nochmal!",
