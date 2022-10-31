@@ -18,6 +18,7 @@
 		"lobby.profile.friends": "§2Your Friends",
 		"lobby.profile.party": "§5Make a Party",
 		"lobby.profile.stats": "§gYour Statistics",
-		"lobby.profile.settings": "§bLobby Settings"
+		"lobby.profile.settings": "§bLobby Settings",
+		"lobby.ui.marketplace": "Marketplace"
 	}
 }
