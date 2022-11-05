@@ -43,7 +43,7 @@
     "joinme.create": "§b{PLAYER} §7hat ein JoinME auf §b{SERVER} §7erstellt!{LINE} &7Benutze /joinme um nach zu joinen",
     "joinme.cooldown": "&cDu kannst erst in &4{MINUTES} &cund &4{SECONDS} &cein weiteres JoinME erstellen!",
     "command.build.enabled": "{PREFIX}&aDu kannst nun bauen!",
-    "command.not.found": "{PREFIX}§7Der Command §4{COMMAND} §7wurde §cnicht gefunden§7!  
+    "command.not.found": "{PREFIX}§7Der Command §4{COMMAND} §7wurde §cnicht gefunden§7!",
     
     "clan.name.already.exists": "&cDer Clanname existiert bereits!",
     "clan.tag.already.exists": "&cDer Clantag existiert bereits!",
