@@ -67,8 +67,8 @@
     "party.error.message": "&cEs ist ein Fehler aufgetreten!",
     "game.waiting.players": "&7Warten auf &b{NEEDED_PLAYER} Spieler§7...",
 
-    "bossbar.advertisement.1": "§bUnser Hoster: §7https://prohosting24.de/a/zeferamc",
-    "bossbar.advertisement.2": "§bDiscord: §7http://discord.zeferamc.com",
+    "bossbar.advertisement.1": "§bHoster: §7https://prohosting24.de/a/zeferamc",
+    "bossbar.advertisement.2": "§bDiscord: §7https://discord.zeferamc.com",
     "bossbar.advertisement.3": "§bProHosting24.de",
 
     "core.broadcast.1": "{PREFIX}§7Du willst ZeferaMC unterstützen und gleichzeitig eine Belohnung erhalten? Dann vote auf §bvote.zeferamc.com!",

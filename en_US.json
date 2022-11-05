@@ -14,6 +14,10 @@
 		"channel.toggle.cloud": "&cCloud",
 		"channel.toggle.anticheat": "&cAnticheat",
 
+		"bossbar.advertisement.1": "§bHoster: §7https://prohosting24.de/a/zeferamc",
+		"bossbar.advertisement.2": "§bDiscord: §7https://discord.zeferamc.com",
+		"bossbar.advertisement.3": "§bProHosting24.de",
+
 		"lobby.profile.clan": "§6Manage Clan",
 		"lobby.profile.friends": "§2Your Friends",
 		"lobby.profile.party": "§5Make a Party",
