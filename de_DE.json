@@ -84,6 +84,8 @@
 
     "lobby.confirm.buy.feature": "§cWillst du wirklich §e{FEATURE} §cfür §e{PRICE} Coins §ckaufen?",
     "lobby.feature.successfully.bought": "§7Du hast §e{FEATURE} §7für §e{PRICE} Coins §7gekauft!",
+    "dailyreward.claim.success": "§7Du hast heute dein §eDailyreward §7abgeholt!",
+    "dailyreward.already.claimed": "§cDu hast heute schon dein Dailyreward abgeholt!",
     
     "message.vote.not.found": "{PREFIX}§cDu hast noch nicht gevoted! Tuh es jetzt unter §bvote.zeferamc.com",
     "message.vote.already.claimed": "{PREFIX}§cDu hast schon gevoted! Versuch es später nochmal!",
