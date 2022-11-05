@@ -5,15 +5,24 @@
   "prefix": "§eZefera§6MC §8»§r ",
   "values": {
     "kick.message.maintenance": "§cZeferaMC ist in Wartungsarbeiten!",
-    
+
     "game.death.by.player": "&c{KILLED} &7wurde von &c{KILLER}&7 getötet!",
+    "game.final.death.by.player": "&c{KILLED} &7wurde von &c{KILLER}&7 getötet!",
     "game.death.by.any": "&c{KILLED} &7ist gestorben!",
-    
+    "game.final.death.by.any": "&c{KILLED} &7ist gestorben!",
+
+    "bedwars.bed.destroyed": "§cDas Bett von Team {TEAM} §cwurde von {DESTROYER} §cabgebaut!",
+    "bedwars.title.bed.was": "§cDein Bett",
+    "bedwars.subtitle.destroyed": "§4wurde zerstört",
+
+    "team.joined": "§7Du hast das Team {TEAM} §7betreten!",
+    "team.leave": "§cDu hast das Team {TEAM} §cverlassen!",
+
     "channel.toggle.team": "&cTeam",
     "channel.toggle.report": "&cReport",
     "channel.toggle.cloud": "&cCloud",
     "channel.toggle.anticheat": "&cAnticheat",
-    
+
     "party.created.successfully": "§aDeine Party wurde erstellt!",
     "party.join": "&b{PLAYER} &7ist der Party beigetreten!",
     "party.success.join": "&aDu bist der Party von &g{OWNER} &7beigetreten!",
@@ -21,30 +30,30 @@
     "player.already.another.party": "&c{PLAYER} ist bereits in einer anderen Party!",
     "player.invited.another": "&c{PLAYER} wurde in deine Party eingeladen!",
     "player.partyless": "&cDu bist in keiner Party!",
-    
+
     "player.not.registered": "&c{PLAYER} ist &4offline!",
     "transfer.server.cant.join": "{PREFIX}&cDu kannst dich nicht auf &e{SERVER} &cverbinden!",
     "saved.changes.message": "&eDeine Einstellungen wurden erfolgreich übernommen!",
     "message.notPermissions": "&cDu hast keine Berechtigung!",
     "transfer.server.success": "{PREFIX}&7Transferiere zu {SERVER}...",
     "command.ping.result": "{PREFIX}§aDu hast einen {RESULT} Ping!",
-    
-    "language.info": "§7Durch unserem erweitertem §bSprachsystemes §7musst du um deine Sprache zu wechseln, in deinen §gMinecraft-Einstellungen §7gehen. In dem Reiter §gSprache §7deine beliebige Sprache auswählen!",
+
+    "language.info": "§7Durch unserem erweitertem §bSprachsystems §7musst du um deine Sprache zu wechseln, in deinen §gMinecraft-Einstellungen §7gehen. In dem Reiter §gSprache §7deine beliebige Sprache auswählen!",
     "language.info.2": "§7Derzeit unterstützen wir nur die Sprachen (§g{ONLY_TRANSLATED_LANGUAGES}§7)!",
-    
+
     "networkinfo.title.name": "&e&lNetzwerk Information",
     "command.networkinfo.result": "{PREFIX}&7Es sind zurzeit &e{REGPLAYERS} &7Spieler registriert!",
-    
+
     "coins.see": "&7Du hast zurzeit &6{COINS} &7Coins!",
     "player.removed.coins.another": "&7Du hast &b{REMOVEPLAYER} &6{COINS} &7weggenommen!",
     "player.set.coins.another": "&7Du hast die Coins von &e{TOPLAYER} auf &6{COINS} &7gesetzt!",
     "player.added.coins.another": "&7Du hast &e{ADDPLAYER} &6{COINS} Coins &7gegeben!",
-   
+
     "joinme.create": "§b{PLAYER} §7hat ein JoinME auf §b{SERVER} §7erstellt!{LINE} &7Benutze /joinme um nach zu joinen",
     "joinme.cooldown": "&cDu kannst erst in &4{MINUTES} &cund &4{SECONDS} &cein weiteres JoinME erstellen!",
     "command.build.enabled": "{PREFIX}&aDu kannst nun bauen!",
     "command.not.found": "{PREFIX}§7Der Command §4{COMMAND} §7wurde §cnicht gefunden§7!",
-    
+
     "clan.name.already.exists": "&cDer Clanname existiert bereits!",
     "clan.tag.already.exists": "&cDer Clantag existiert bereits!",
     "clan.cannot.transfer.yourself": "&cDu kannst deinen Clan dir nicht selbst übertragen!",
@@ -64,18 +73,18 @@
     "clan.kicked.member.success": "&cDu hast &e{KICKED_PLAYER} &cerfolgreich aus dem Clan geworfen!",
     "player.already.another.clan": "&cDer Spieler &e{PLAYER} &cist bereits in &e{CLAN}&c!",
     "player.clanless": "&cDu bist in keinem Clan!",
-    
+
     "party.error.message": "&cEs ist ein Fehler aufgetreten!",
     "game.waiting.players": "&7Warten auf &b{NEEDED_PLAYER} Spieler§7...",
 
-    "bossbar.advertisement.1": "§bHoster: §7https://prohosting24.de/a/zeferamc",
-    "bossbar.advertisement.2": "§bDiscord: §7https://discord.zeferamc.com",
-    "bossbar.advertisement.3": "§bProHosting24.de",
+    "bossbar.advertisement.1": "§bHoster: §7http://prohosting24.de/a/zeferamc",
+    "bossbar.advertisement.2": "§bDiscord: §7discord.zeferamc.com",
+    "bossbar.advertisement.3": "§bWebseite: §7http://zeferamc.com",
 
     "core.broadcast.1": "{PREFIX}§7Du willst ZeferaMC unterstützen und gleichzeitig eine Belohnung erhalten? Dann vote auf §bvote.zeferamc.com!",
     "core.broadcast.2": "{PREFIX}§7Schon bemerkt? Wir sind derzeit auf der Suche nach Verstärkung im §2Team",
     "core.broadcast.3": "{PREFIX}§7Du willst die neuesten §2News und Updates §7nicht verpassen? Dann trete unseren §bDiscord §7Server unter discord.zeferamc.com bei!",
-    
+
     "lobby.profile.clan": "§6Clan Verwalten",
     "lobby.profile.friends": "§2Deine Freunde",
     "lobby.profile.party": "§5Starte eine Party",
@@ -85,14 +94,15 @@
 
     "lobby.confirm.buy.feature": "§cWillst du wirklich §e{FEATURE} §cfür §e{PRICE} Coins §ckaufen?",
     "lobby.feature.successfully.bought": "§7Du hast §e{FEATURE} §7für §e{PRICE} Coins §7gekauft!",
-    "dailyreward.claim.success": "§7Du hast heute dein §eDailyreward §7abgeholt!",
-    "dailyreward.already.claimed": "§cDu hast heute schon dein Dailyreward abgeholt!",
-    
+    "dailyreward.claim.success": "§7Du hast erfolgreich deine Tägliche Belohnung abgeholt!",
+    "dailyreward.already.claimed": "§cDu hast heute schon deine Tägliche Belohnung abgeholt!",
+    "dailyreward.first.claim.success": "§7Du hast erfolgreich deine erste Tägliche Belohnung abgeholt!",
+
     "message.vote.not.found": "{PREFIX}§cDu hast noch nicht gevoted! Tuh es jetzt unter §bvote.zeferamc.com",
     "message.vote.already.claimed": "{PREFIX}§cDu hast schon gevoted! Versuch es später nochmal!",
     "message.vote.success.claimed": "{PREFIX}§aDu hast deine Belohnung erfolgreich abgeholt!",
     "vote.global.message": "§7{SENDER} §ahat gevoted und hat seine Belohnung erhalten! §bvote.zeferamc.com",
-    
+
     "cloud.match.starting.in": "§aRunde startet in §e{SECONDS} §aSekunden",
     "cloud.information.not.found": "§cKeine Cloud-Ergebnisse gefunden",
     "cloud.map.info": "§aDie aktuelle Map ist: §e{MAP}"
