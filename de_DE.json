@@ -9,7 +9,7 @@
     "game.death.by.player": "&c{KILLED} &7wurde von &c{KILLER}&7 getötet!",
     "game.final.death.by.player": "&c{KILLED} &7wurde von &c{KILLER}&7 getötet!",
     "game.death.by.any": "&c{KILLED} &7ist gestorben!",
-    "game.final.death.by.any": "&c{KILLED} &7ist gestorben!",
+    "game.final.death.by.any": "&c{KILLED} &7ist ausgeschieden!",
 
     "bedwars.bed.destroyed": "§cDas Bett von Team {TEAM} §cwurde von {DESTROYER} §cabgebaut!",
     "bedwars.title.bed.was": "§cDein Bett",
