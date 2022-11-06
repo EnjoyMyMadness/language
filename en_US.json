@@ -7,12 +7,29 @@
 		"kick.message.maintenance": "§cZeferaMC is in maintenance!",
 
 		"game.death.by.player": "&c{KILLED} &7has been killed by &c{KILLER}&7!",
+		"game.final.death.by.player": "&c{KILLED} &7has been killed by &c{KILLER}&7!",
 		"game.death.by.any": "&c{KILLED} &7died!",
+		"game.final.death.by.any": "&c{KILLED} &7died!",
+
+		"bedwars.bed.destroyed": "§c{TEAM} §cBed §cgot destryoed by {DESTROYER}§c!",
+		"bedwars.title.bed.was": "§cYour Bed",
+		"bedwars.subtitle.destroyed": "§was destroyed",
+
+		"team.joined": "§7Joined Team {TEAM} §7!",
+		"team.leave": "§cLeft Team {TEAM} §c!",
 
 		"channel.toggle.team": "&cTeam",
 		"channel.toggle.report": "&cReport",
 		"channel.toggle.cloud": "&cCloud",
 		"channel.toggle.anticheat": "&cAnticheat",
+
+		"party.created.successfully": "§aYour party was created!",
+		"party.join": "&b{PLAYER} &7joined the party!",
+		"party.success.join": "&aYou've joined the party of &g{OWNER}&7!",
+		"party.confirm.delete": "&cAre you sure you want to delete your party?",
+		"player.already.another.party": "&c{PLAYER} is already in another party!",
+		"player.invited.another": "&c{PLAYER} was invited to your party!",
+		"player.partyless": "&cYou aren't in any party!",
 
 		"bossbar.advertisement.1": "§bHoster: §7https://prohosting24.de/a/zeferamc",
 		"bossbar.advertisement.2": "§bDiscord: §7https://discord.zeferamc.com",
