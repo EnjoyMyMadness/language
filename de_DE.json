@@ -96,7 +96,7 @@
     "lobby.feature.successfully.bought": "§7Du hast §e{FEATURE} §7für §e{PRICE} Coins §7gekauft!",
     "lobbygames.noingame": "§cDu bist gerade nicht in einem LobbyGame!",
     "lobbygames.lose": "§cDu hast die Runde verloren!",
-    "your.lobby": "§7Du bist gerade auf §b{CURRENT_LOBBY}§7!",
+    "your.lobby": "{PREFIX}§7Du bist gerade auf §b{CURRENT_LOBBY}§7!",
 
     "dailyreward.claim.success": "§7Du hast erfolgreich deine Tägliche Belohnung abgeholt!",
     "dailyreward.already.claimed": "§cDu hast heute schon deine Tägliche Belohnung abgeholt!",
