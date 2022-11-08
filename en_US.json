@@ -31,15 +31,86 @@
 		"player.invited.another": "&c{PLAYER} was invited to your party!",
 		"player.partyless": "&cYou aren't in any party!",
 
-		"bossbar.advertisement.1": "§bHoster: §7https://prohosting24.de/a/zeferamc",
+		"player.not.registered": "&7The player §e{PLAYER} §cis offline or does not exist!",
+		"transfer.server.cant.join": "{PREFIX}&cYou can't connect to &e{SERVER} &c!",
+		"saved.changes.message": "&aYour settings were successfully applied!",
+		"message.notPermissions": "&cYou do not have permission!",
+		"transfer.server.success": "{PREFIX}&7Transfer to {SERVER}...",
+		"command.ping.result": "{PREFIX}§aYou have a {RESULT} ping!",
+
+		"bossbar.advertisement.1": "§bHoster: §7https://prohosting24.net/a/zeferamc",
 		"bossbar.advertisement.2": "§bDiscord: §7https://discord.zeferamc.com",
-		"bossbar.advertisement.3": "§bProHosting24.de",
+		"bossbar.advertisement.3": "§bProHosting24.net",
+
+
+		"language.info": "§7Due to our advanced §bLanguage system §7you have to go to your §gMinecraft settings §7to change your language. In the tab §gLanguage §7select any language you like!",
+		"language.info.2": "§7Currently we only support the languages (§g{ONLY_TRANSLATED_LANGUAGES}§7)!",
+
+		"networkinfo.title.name": "&e&lNetwork information",
+		"command.networkinfo.result": "{PREFIX}&7There are currently &e{REGPLAYERS} &7players registered!",
+
+		"coins.see": "&7You currently have &6{COINS} &7Coins!",
+		"player.removed.coins.another": "&7You have &b{REMOVEPLAYER} &6{COINS} &7taken away!",
+		"player.set.coins.another": "&7You have set the coins from &e{TOPLAYER} to &6{COINS} &7!",
+		"player.added.coins.another": "&7You have given &e{ADDPLAYER} &6{COINS} Coins &7!",
+
+		"joinme.create": "{LINE}{LINE}§bJoinME §8| §a{PLAYER} §7has created a JoinME on §6{SERVER} §7!{LINE}§bJoinME §8| §a &7Use §6/joinme §7to join after.{LINE}{LINE}",
+		"joinme.cooldown": "&cYou can only create another JoinME in &4{MINUTES} minutes &cand &4{SECONDS} seconds &c!",
+		"command.build.enabled": "{PREFIX}&aYou can build now!",
+		"command.build.disabled": "PREFIX}&cYou can now no longer build!",
+		"command.not.found": "{PREFIX}§cThe command §4{COMMAND} §cwas not found§7!",
+
+		"clan.name.already.exists": "&cThe clan name already exists!",
+		"clan.tag.already.exists": "&cThe clantag already exists!",
+		"clan.cannot.transfer.yourself": "&cYou can't transfer your clan to yourself!",
+		"clan.member.notInClan": "&cThis player is not in the clan!",
+		"clan.error.message": "&cAn error has occurred!",
+		"clan.created.successfully": "&aYou have successfully created your clan!",
+		"clan.confirm.delete": "&4&lAre you sure you want to delete the clan?",
+		"clan.deleted.successfully": "&cYou have successfully &4deleted&c your clan!",
+		"clan.tag.onlyChars": "&cThe clan tag is too long!",
+		"clan.name.onlyChars": "&cThe clan name is too long!",
+		"clan.success.join": "&aYou have successfully joined the &e{CLAN} &aClan!",
+		"clan.member.settings.saved": "&aYour settings have been successfully applied!",
+		"clan.confirm.leave": "&4&lAre you sure you want to leave the &e{CLAN} &4Clan?",
+		"clan.promoted.member.success": "&7You have &b{PROMOTED_PLAYER} &7promoted the player!",
+		"clan.degradation.member.success": "&cYou have &e{DEGRADED_PLAYER} &cdegraded the player!",
+		"clan.confirm.kick.member": "&c&lAre you sure you want to &e{KICKED_PLAYER} &kick out of the clan?",
+		"clan.kicked.member.success": "&cYou have &e{KICKED_PLAYER} &successfully kicked out of the clan!",
+		"player.already.another.clan": "&cThe player &e{PLAYER} &cis already in &e{CLAN}&c!",
+		"player.clanless": "&cYou are not in any clan!",
+
+		"party.error.message": "&cAn error has occurred!",
+		"game.waiting.players": "&7Waiting for &b{NEEDED_PLAYER} player§7...",
 
 		"lobby.profile.clan": "§6Manage Clan",
 		"lobby.profile.friends": "§2Your Friends",
 		"lobby.profile.party": "§5Make a Party",
 		"lobby.profile.stats": "§gYour Statistics",
 		"lobby.profile.settings": "§bLobby Settings",
-		"lobby.ui.marketplace": "Marketplace"
+		"lobby.ui.marketplace": "Marketplace",
+
+		"core.broadcast.1": "{PREFIX}§7You want to support ZeferaMC and get a reward at the same time? Then vote on §bvote.zeferamc.com!",
+		"core.broadcast.2": "{PREFIX}§7Already noticed? We are currently looking for team-member in the §2Team",
+		"core.broadcast.3": "{PREFIX}§7You don't want to miss the latest §2News and updates §7? Then join our §bDiscord §7Server at discord.zeferamc.com bei!",
+
+		"lobby.confirm.buy.feature": "§cDo you really want to §e{FEATURE} §cfor §e{PRICE} coins §ckaufen?",
+		"lobby.feature.successfully.bought": "§7You have bought §e{FEATURE} §7for §e{PRICE} Coins §7!",
+		"lobbygames.noingame": "§cYou are not in a LobbyGame right now!",
+		"lobbygames.lose": "§cYou have lost the round!",
+		"your.lobby": "{PREFIX}§7You are currently on §b{CURRENT_LOBBY}§7!",
+
+		"dailyreward.claim.success": "§7You have successfully collected your Daily Reward!",
+		"dailyreward.already.claimed": "§cYou have already picked up your Daily Reward today!",
+		"dailyreward.first.claim.success": "§7You have successfully collected your first Daily Reward!",
+
+		"message.vote.not.found": "{PREFIX}§cYou haven't voted yet! Do it now under §bvote.zeferamc.com",
+		"message.vote.already.claimed": "{PREFIX}§cYou have already voted! Try again later!",
+		"message.vote.success.claimed": "{PREFIX}§aYou have successfully collected your reward!",
+		"vote.global.message": "§7{SENDER} §ahas voted and has received his reward! §bvote.zeferamc.com",
+
+		"cloud.match.starting.in": "§aRound starts in §e{SECONDS} §aSeconds",
+		"cloud.information.not.found": "§cNo cloud results found",
+		"cloud.map.info": "§aThe current map is: §e{MAP}"
 	}
 }
