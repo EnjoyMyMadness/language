@@ -29,6 +29,7 @@
     "party.confirm.delete": "&cBist du dir sicher, dass du deine Party löschen willst?",
     "player.already.another.party": "&c{PLAYER} ist bereits in einer anderen Party!",
     "player.invited.another": "&c{PLAYER} wurde in deine Party eingeladen!",
+    "party.request.pending": "{PARTY_PREFIX} &7Du wurdest von &b{BY} §7zu einer Party eingeladen!",
     "player.partyless": "&cDu bist in keiner Party!",
 
     "player.not.registered": "&cDer Spieler §e{PLAYER} §cist offline oder existiert nicht!",
@@ -73,6 +74,9 @@
     "clan.confirm.kick.member": "&c&lBist du dir sicher, dass du &e{KICKED_PLAYER} &caus dem Clan rauswerfen willst?",
     "clan.kicked.member.success": "&cDu hast &e{KICKED_PLAYER} &cerfolgreich aus dem Clan geworfen!",
     "player.already.another.clan": "&cDer Spieler &e{PLAYER} &cist bereits in &e{CLAN}&c!",
+    "clan.request.pending": "{CLAN_PREFIX} &aDu wurdest zum Clan &b{CLAN} &aeingeladen!",
+    "clan.request.invited": "&aDu hast &b{INVITED} &azum Clan eingeladen!",
+
     "player.clanless": "&cDu bist in keinem Clan!",
 
     "party.error.message": "&cEs ist ein Fehler aufgetreten!",
