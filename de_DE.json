@@ -51,7 +51,7 @@
     "message.notPermissions": "&cDu hast keine Berechtigung!",
     "transfer.server.success": "{PREFIX}&7Transferiere zu {SERVER}...",
     "command.ping.result": "{PREFIX}§aDu hast einen {RESULT} Ping!",
-    "join.sign.no.server": "&cDer &b{GROUP}&c Server ist aktuell nicht erreichbar!",
+    "join.sign.no.server": "{PREFIX}&cDer &b{GROUP}&c Server ist aktuell nicht erreichbar!",
 
     "language.info": "§7Durch unserem erweitertem §bSprachsystems §7musst du um deine Sprache zu wechseln, in deinen §gMinecraft-Einstellungen §7gehen. In dem Reiter §gSprache §7deine beliebige Sprache auswählen!",
     "language.info.2": "§7Derzeit unterstützen wir nur die Sprachen (§g{ONLY_TRANSLATED_LANGUAGES}§7)!",
