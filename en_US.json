@@ -32,7 +32,8 @@
 		"mlgrush.bed.hasbroken": "&aYou have made a point!",
 		"mlgrush.bed.wasbroken": "&7{BY}&c has made a point!",
 		"mlgrush.got.challenge": "&7{FROM} has challenged you!",
-		"mlgrush.not.in.game": "§cYou are not in a round right now!",
+		"mlgrush.not.in.game": "&cYou are not in a round right now!",
+		"mlgrush.break.ownbed": "&cYou can't break your own bed!",
 
 		"party.created.successfully": "§aYour party was created!",
 		"party.join": "&b{PLAYER} &7joined the party!",
