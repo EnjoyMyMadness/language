@@ -25,6 +25,7 @@
 
 		"mlgrush.queue.join": "&aYou have joined the queue!",
 		"mlgrush.queue.left": "&aYou left the queue!",
+		"mlgrush.challenged.player": "You have sent {PLAYER} a request!",
 
 		"party.created.successfully": "§aYour party was created!",
 		"party.join": "&b{PLAYER} &7joined the party!",
