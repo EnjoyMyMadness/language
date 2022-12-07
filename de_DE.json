@@ -125,6 +125,11 @@
     "message.vote.success.claimed": "{PREFIX}§aDu hast deine Belohnung erfolgreich abgeholt!",
     "vote.global.message": "§7{SENDER} §ahat gevoted und hat seine Belohnung erhalten! §bvote.zeferamc.com",
 
+    "chat.detected.bannedWords":  "§cReguliere deine Wortwahl!",
+    "chat.detected.domain":  "§cBitte mach keine Werbung für andere!",
+    "chat.detected.equals.message":  "§cBitte senkt deine Schreibgeschwindigkeit!",
+    "chat.detected.spamming":  "§cBitte wiederhole dich nicht!",
+
     "cloud.match.starting.in": "§aRunde startet in §e{SECONDS} §aSekunden",
     "cloud.information.not.found": "§cKeine Cloud-Ergebnisse gefunden",
     "cloud.map.info": "§aDie aktuelle Map ist: §e{MAP}"

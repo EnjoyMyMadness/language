@@ -50,10 +50,9 @@
 		"transfer.server.success": "{PREFIX}&7Transfer to {SERVER}...",
 		"command.ping.result": "{PREFIX}§aYou have a {RESULT} ping!",
 
-		"bossbar.advertisement.1": "§bHoster: §7https://prohosting24.net/a/zeferamc",
-		"bossbar.advertisement.2": "§bDiscord: §7https://discord.zeferamc.com",
-		"bossbar.advertisement.3": "§bProHosting24.net",
-
+		"bossbar.advertisement.1": "\uE120 §3https://prohosting24.net",
+		"bossbar.advertisement.2": " §9https://bedrockhub.io",
+		"bossbar.advertisement.3": "§bWebseite: §7http://zeferamc.com",
 
 		"language.info": "§7Due to our advanced §bLanguage system §7you have to go to your §gMinecraft settings §7to change your language. In the tab §gLanguage §7select any language you like!",
 		"language.info.2": "§7Currently we only support the languages (§g{ONLY_TRANSLATED_LANGUAGES}§7)!",
@@ -120,6 +119,11 @@
 		"message.vote.already.claimed": "{PREFIX}§cYou have already voted! Try again later!",
 		"message.vote.success.claimed": "{PREFIX}§aYou have successfully collected your reward!",
 		"vote.global.message": "§7{SENDER} §ahas voted and has received his reward! §bvote.zeferamc.com",
+
+		"chat.detected.bannedWords": "§cRegulate your choice of words!",
+		"chat.detected.domain": "§cPlease don't advertise for others!",
+		"chat.detected.equals.message": "§cPlease lower your typing speed!",
+		"chat.detected.spamming": "§cPlease don't repeat yourself!",
 
 		"cloud.match.starting.in": "§aRound starts in §e{SECONDS} §aSeconds",
 		"cloud.information.not.found": "§cNo cloud results found",
