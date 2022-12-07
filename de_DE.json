@@ -33,6 +33,7 @@
     "mlgrush.bed.wasbroken": "&7{BY}&c hat einen Punkt gemacht!",
     "mlgrush.got.challenge": "&7{FROM} hat dich herausgefordert!",
     "mlgrush.not.in.game": "§cDu bist gerade in keiner Runde!",
+    "mlgrush.break.ownbed": "§cDu kannst dein eigenes Bett nicht abbauen!",
 
     "party.created.successfully": "§aDeine Party wurde erstellt!",
     "party.join": "&b{PLAYER} &7ist der Party beigetreten!",
