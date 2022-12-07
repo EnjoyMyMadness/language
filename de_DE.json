@@ -25,6 +25,7 @@
 
     "mlgrush.queue.join": "&aDu hast die Warteschlange betreten!",
     "mlgrush.queue.left": "&cDu hast die Warteschlange verlassen!",
+    "mlgrush.challenged.player": "Du hast {PLAYER} eine Anfrage geschickt.,
 
     "party.created.successfully": "§aDeine Party wurde erstellt!",
     "party.join": "&b{PLAYER} &7ist der Party beigetreten!",
