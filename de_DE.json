@@ -14,6 +14,7 @@
     "bedwars.bed.destroyed": "§cDas Bett von Team {TEAM} §cwurde von {DESTROYER} §cabgebaut!",
     "bedwars.title.bed.was": "§cDein Bett",
     "bedwars.subtitle.destroyed": "§4wurde zerstört",
+    "bedwars.break.own.bed": "§cDu kannst deine eigenes Bett nicht abbauen!",
 
     "team.joined": "§7Du hast das Team {TEAM} §7betreten!",
     "team.leave": "§cDu hast das Team {TEAM} §cverlassen!",
