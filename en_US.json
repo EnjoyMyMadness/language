@@ -23,8 +23,8 @@
 		"channel.toggle.cloud": "&cCloud",
 		"channel.toggle.anticheat": "&cAnticheat",
 
-		"mlgrush.queue.join": "&aYou have joined the queue!"
-		"mlgrush.queue.left": "&aYou left the queue!"
+		"mlgrush.queue.join": "&aYou have joined the queue!",
+		"mlgrush.queue.left": "&aYou left the queue!",
 
 		"party.created.successfully": "§aYour party was created!",
 		"party.join": "&b{PLAYER} &7joined the party!",
