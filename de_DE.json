@@ -30,7 +30,7 @@
     "mlgrush.win.game": "&aDu hast gegen &7{PLAYER}&a gewonnen!",
     "mlgrush.already.challenged": "&7Du hast bereits {PLAYER} herausgefordert!",
     "mlgrush.bed.hasbroken": "&aDu hast ein Punkt gemacht!",
-    "mlgrush.bed.wasbroken": "&7{PLAYER}&c hat einen Punkt gemacht!",
+    "mlgrush.bed.wasbroken": "&7{BY}&c hat einen Punkt gemacht!",
 
     "party.created.successfully": "§aDeine Party wurde erstellt!",
     "party.join": "&b{PLAYER} &7ist der Party beigetreten!",
