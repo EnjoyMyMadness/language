@@ -26,6 +26,13 @@
 		"mlgrush.queue.join": "&aYou have joined the queue!",
 		"mlgrush.queue.left": "&aYou left the queue!",
 		"mlgrush.challenged.player": "&7You have sent {PLAYER} a request!",
+		"mlgrush.lose.game": "&cYou lost to &7{ENEMY}&c!",
+		"mlgrush.win.game": "&aYou have won against &7{ENEMY}&a!",
+		"mlgrush.already.challenged": "&7You have already challenged {PLAYER}!",
+		"mlgrush.bed.hasbroken": "&aYou have made a point!",
+		"mlgrush.bed.wasbroken": "&7{BY}&c has made a point!",
+		"mlgrush.got.challenge": "&7{FROM} has challenged you!",
+		"mlgrush.not.in.game": "§cYou are not in a round right now!",
 
 		"party.created.successfully": "§aYour party was created!",
 		"party.join": "&b{PLAYER} &7joined the party!",
