@@ -49,7 +49,7 @@
 		"message.notPermissions": "&cYou do not have permission!",
 		"transfer.server.success": "{PREFIX}&7Transfer to {SERVER}...",
 		"command.ping.result": "{PREFIX}§aYou have a {RESULT} ping!",
-		"join.sign.no.server": "&cThe &b{GROUP}&c server is currently unavailable!",
+		"join.sign.no.server": "{PREFIX}&cThe &b{GROUP}&c server is currently unavailable!",
 
 		"bossbar.advertisement.1": "\uE120 §3https://prohosting24.net",
 		"bossbar.advertisement.2": " §9https://bedrockhub.io",
