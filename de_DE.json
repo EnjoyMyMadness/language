@@ -31,7 +31,7 @@
     "mlgrush.already.challenged": "&7Du hast bereits {PLAYER} herausgefordert!",
     "mlgrush.bed.hasbroken": "&aDu hast ein Punkt gemacht!",
     "mlgrush.bed.wasbroken": "&7{BY}&c hat einen Punkt gemacht!",
-    "mlgrush.got.challenge": "&7{FROM} will gegen dich &9M&fL&cG&fRush&7 spielen!",
+    "mlgrush.got.challenge": "&7{FROM} hat dich herausgefordert!",
     "mlgrush.not.in.game": "§cDu bist gerade in keiner Runde!",
 
     "party.created.successfully": "§aDeine Party wurde erstellt!",
