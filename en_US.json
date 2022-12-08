@@ -95,7 +95,7 @@
 		"clan.kicked.member.success": "&cYou have &e{KICKED_PLAYER} &successfully kicked out of the clan!",
 		"player.already.another.clan": "&cThe player &e{PLAYER} &cis already in &e{CLAN}&c!",
 		"clan.request.pending": "{CLAN_PREFIX}&7Du wurdest zum Clan &b{CLAN} &7eingeladen!",
-		"clan.request.invited": "&aDu hast &b{INVITED} &azum Clan eingeladen!",		
+		"clan.request.invited": "&aDu hast &b{INVITED} &azum Clan eingeladen!",
 		"player.clanless": "&cYou are not in a clan!",
 
 		"privateserver.creating": "&aYour private &b{GROUP_NAME} &aServer is being created!",
@@ -103,7 +103,7 @@
 		"privateserver.success.stopped": "&aYour private server has been successfully stopped!",
 		"privateserver.ui.content": "&aServer Type: &b{CURRENT_GROUP}",
 
-		"report.success.send": "&aYou have reported &b{SUSPECT}&a successfully!"
+		"report.success.send": "&aYou have reported &b{SUSPECT}&a successfully!",
 
 		"party.error.message": "&cAn error has occurred!",
 		"game.waiting.players": "&7Waiting for &b{NEEDED_PLAYER} player§7...",
