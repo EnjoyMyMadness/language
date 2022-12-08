@@ -92,7 +92,7 @@
     "clan.request.invited": "&aDu hast &b{INVITED} &azum Clan eingeladen!",
 
     "privateserver.creating": "&aDein privater &b{GROUP_NAME} &aServer wird erstellt!",
-    "privateserver.success.created": "Dein privater &b{GROUP_NAME} &aServer wurde erfolgreich erstellt!",
+    "privateserver.success.created": "&aDein privater &b{GROUP_NAME} &aServer wurde erfolgreich erstellt!",
     "privateserver.success.stopped": "&aDein privater Server wurde erfolgreich gestoppt!",
     "privateserver.ui.content": "&aServer Typ: &b{CURRENT_GROUP}",
 
@@ -107,7 +107,7 @@
 
     "core.broadcast.1": "{PREFIX}§7Du willst ZeferaMC unterstützen und gleichzeitig eine Belohnung erhalten? Dann vote auf §bvote.zeferamc.com!",
     "core.broadcast.2": "{PREFIX}§7Schon bemerkt? Wir sind derzeit auf der Suche nach Verstärkung im §2Team",
-    "core.broadcast.3": "{PREFIX}§7Du willst die neuesten §2News und Updates §7nicht verpassen? Dann trete unseren §bDiscord §7Server unter discord.zeferamc.com bei!",
+    "core.broadcast.3": "{PREFIX}§7Du willst die neuesten §2News und Updates §7nicht verpassen? Dann trete unseren §bDiscord §7Server unter &bdiscord.zeferamc.com&7 bei!",
 
     "lobby.profile.clan": "§6Clan Verwalten",
     "lobby.profile.friends": "§2Deine Freunde",
