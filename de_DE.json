@@ -127,7 +127,7 @@
     "dailyreward.first.claim.success": "§7Du hast erfolgreich deine erste Tägliche Belohnung abgeholt!",
 
     "group.nick.nicked": "{PREFIX}&aDein Nickname wurde zu &b{AS}&a geändert!",
-    "group.nick.unnicked": "{PREFIX}&aDein Nickname wurde zurückgesetzt!",
+    "group.nick.unnicked": "{PREFIX}&cDein Nickname wurde zurückgesetzt!",
 
     "message.vote.not.found": "{PREFIX}§cDu hast noch nicht gevoted! Tuh es jetzt unter §bvote.zeferamc.com",
     "message.vote.already.claimed": "{PREFIX}§cDu hast schon gevoted! Versuch es später nochmal!",
