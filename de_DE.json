@@ -93,7 +93,7 @@
     "clan.confirm.kick.member": "&c&lBist du dir sicher, dass du &e{KICKED_PLAYER} &caus dem Clan rauswerfen willst?",
     "clan.kicked.member.success": "&cDu hast &e{KICKED_PLAYER} &cerfolgreich aus dem Clan geworfen!",
     "player.already.another.clan": "&cDer Spieler &e{PLAYER} &cist bereits in &e{CLAN}&c!",
-    "clan.request.pending": "{CLAN_PREFIX}&7You have been invited to the clan &b{CLAN}&7!
+    "clan.request.pending": "{CLAN_PREFIX}&7You have been invited to the clan &b{CLAN}&7!",
     "clan.request.invited": "&aYou invited &b{INVITED} &ato the clan!",
     "player.clanless": "&cDu bist in keinem Clan!",
 
