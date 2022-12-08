@@ -92,7 +92,7 @@
     "clan.request.invited": "&aDu hast &b{INVITED} &azum Clan eingeladen!",
 
     "privateserver.creating": "&aDein privater &b{GROUP_NAME} &aServer wird erstellt!",
-    "pivateserver.success.created": "Dein privater &b{GROUP_NAME} &aServer wurde erfolgreich erstellt!",
+    "privateserver.success.created": "Dein privater &b{GROUP_NAME} &aServer wurde erfolgreich erstellt!",
 
     "player.clanless": "&cDu bist in keinem Clan!",
 
