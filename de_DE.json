@@ -94,7 +94,7 @@
     "privateserver.creating": "&aDein privater &b{GROUP_NAME} &aServer wird erstellt!",
     "privateserver.success.created": "Dein privater &b{GROUP_NAME} &aServer wurde erfolgreich erstellt!",
     "privateserver.success.stopped": "&aDein privater Server wurde erfolgreich gestoppt!",
-    "privateserver.ui.content": "&aServer Typ: &b{CURRENT_GROUP}
+    "privateserver.ui.content": "&aServer Typ: &b{CURRENT_GROUP}",
 
     "player.clanless": "&cDu bist in keinem Clan!",
 
