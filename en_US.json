@@ -15,6 +15,7 @@
 		"bedwars.title.bed.was": "§cYour Bed",
 		"bedwars.subtitle.destroyed": "§was destroyed",
 		"bedwars.break.own.bed": "§cYou can't break your own bed!",
+		"you.are.now.spectator": "&bYou are now spectating!",
 
 		"team.joined": "§7Joined Team {TEAM} §7!",
 		"team.leave": "§cLeft Team {TEAM} §c!",
@@ -101,6 +102,8 @@
 		"privateserver.success.created": "&aYour private &b{GROUP_NAME} &aServer has been successfully created!",
 		"privateserver.success.stopped": "&aYour private server has been successfully stopped!",
 		"privateserver.ui.content": "&aServer Type: &b{CURRENT_GROUP}",
+
+		"report.success.send": "&aYou have reported &b{SUSPECT}&a successfully!"
 
 		"party.error.message": "&cAn error has occurred!",
 		"game.waiting.players": "&7Waiting for &b{NEEDED_PLAYER} player§7...",
