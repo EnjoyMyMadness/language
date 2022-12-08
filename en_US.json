@@ -126,6 +126,9 @@
 		"dailyreward.already.claimed": "§cYou have already picked up your Daily Reward today!",
 		"dailyreward.first.claim.success": "§7You have successfully collected your first Daily Reward!",
 
+		"group.nick.nicked": "&aYour nickname has been changed to &b{AS}&a!",
+		"group.nick.unnicked": "&aYour nickname has been reseted!",
+
 		"message.vote.not.found": "{PREFIX}§cYou haven't voted yet! Do it now under §bvote.zeferamc.com",
 		"message.vote.already.claimed": "{PREFIX}§cYou have already voted! Try again later!",
 		"message.vote.success.claimed": "{PREFIX}§aYou have successfully collected your reward!",
