@@ -91,6 +91,9 @@
     "clan.request.pending": "{CLAN_PREFIX}&7Du wurdest zum Clan &b{CLAN} &7eingeladen!",
     "clan.request.invited": "&aDu hast &b{INVITED} &azum Clan eingeladen!",
 
+    "privateserver.creating": "&aDein privater &b{GROUP_NAME} &aServer wird erstellt!",
+    "pivateserver.success.created": "Dein privater &b{GROUP_NAME} &aServer wurde erfolgreich erstellt!",
+
     "player.clanless": "&cDu bist in keinem Clan!",
 
     "party.error.message": "&cEs ist ein Fehler aufgetreten!",
