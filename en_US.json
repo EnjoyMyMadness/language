@@ -38,6 +38,7 @@
 		"mlgrush.break.ownbed": "&cYou can't break your own bed!",
 
 		"party.created.successfully": "§aYour party was created!",
+		"party.deleted.successfully": "§cYour party was deleted!",
 		"party.join": "&b{PLAYER} &7joined the party!",
 		"party.success.join": "&aYou've joined the party of &g{OWNER}&7!",
 		"party.confirm.delete": "&cAre you sure you want to delete your party?",
