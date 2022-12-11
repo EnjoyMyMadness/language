@@ -6,10 +6,10 @@
 	"values": {
 		"kick.message.maintenance": "§cZeferaMC is in maintenance!",
 
-		"game.death.by.player": "&c{KILLED} &7has been killed by &c{KILLER}&7!",
-		"game.final.death.by.player": "&c{KILLED} &7has been killed by &c{KILLER}&7!",
-		"game.death.by.any": "&c{KILLED} &7died!",
-		"game.final.death.by.any": "&c{KILLED} &7died!",
+		"game.death.by.player":"&c{KILLED} &7was killed by &c{KILLER}&7!",
+		"game.death.by.void":"&c{KILLED} &7has fallen into the void!",
+		"game.death.by.any":"&c{KILLED} &7has died!",
+		"game.death.final":"&c{KILLED} &7was eliminated!",
 
 		"bedwars.bed.destroyed": "§c{TEAM} §cBed §cgot destroyed by {DESTROYER}§c!",
 		"bedwars.title.bed.was": "§cYour Bed",
