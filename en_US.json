@@ -13,7 +13,7 @@
 
 		"bedwars.bed.destroyed": "§c{TEAM} §cBed §cgot destroyed by {DESTROYER}§c!",
 		"bedwars.title.bed.was": "§cYour Bed",
-		"bedwars.subtitle.destroyed": "§was destroyed",
+		"bedwars.subtitle.destroyed": "§4was destroyed",
 		"bedwars.break.own.bed": "§cYou can't break your own bed!",
 		"you.are.now.spectator": "&bYou are now spectating!",
 
