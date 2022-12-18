@@ -17,8 +17,8 @@
 		"bedwars.break.own.bed": "§cYou can't break your own bed!",
 		"you.are.now.spectator": "&bYou are now spectating!",
 
-		"team.joined": "§7Joined Team {TEAM} §7!",
-		"team.leave": "§cLeft Team {TEAM} §c!",
+		"team.joined": "§7You have entered the team {TEAM} §7!",
+		"team.leave": "§cYou have left the team {TEAM} §c!",
 
 		"channel.toggle.team": "&cTeam",
 		"channel.toggle.report": "&cReport",
