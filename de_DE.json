@@ -40,7 +40,7 @@
     "party.created.successfully": "§aDeine Party wurde erstellt!",
     "party.deleted.successfully": "§cDeine Party wurde gelöscht!",
     "party.join": "&b{PLAYER} &7ist der Party beigetreten!",
-    "party.success.join": "&aDu bist der Party von &g{OWNER} &7beigetreten!",
+    "party.success.join": "&aDu bist der Party von &g{OWNER} &abeigetreten!",
     "party.confirm.delete": "&cBist du dir sicher, dass du deine Party löschen willst?",
     "player.already.another.party": "&c{PLAYER} ist bereits in einer anderen Party!",
     "player.invited.another": "&c{PLAYER} wurde in deine Party eingeladen!",
