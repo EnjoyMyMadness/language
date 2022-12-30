@@ -6,6 +6,8 @@
   "values": {
     "kick.message.maintenance": "§cZeferaMC ist in Wartungsarbeiten!",
 
+    "deathmatch.countdown.minutes": "&7Deathmatch startet in &b{TIME}&7 Minuten!",
+    "deathmatch.countdown.seconds": "&7Deathmatch startet in &b{TIME}&7 Sekunden!",
     "game.death.by.player": "&c{KILLED} &7wurde von &c{KILLER}&7 getötet!",
     "game.death.by.void": "&c{KILLED} &7ist in das Void gefallen!",
     "game.death.by.any": "&c{KILLED} &7ist gestorben!",
