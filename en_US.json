@@ -7,7 +7,7 @@
 		"kick.message.maintenance": "§cZeferaMC is in maintenance!",
 
 		"deathmatch.countdown.minutes": "&7Deathmatch starts in &b{TIME}&7 minutes!",
-		"deathmatch.countdown.minutes": "&7Deathmatch starts in &b{TIME}&7 seconds!",
+		"deathmatch.countdown.seconds": "&7Deathmatch starts in &b{TIME}&7 seconds!",
 		"game.death.by.player":"&c{KILLED} &7was killed by &c{KILLER}&7!",
 		"game.death.by.void":"&c{KILLED} &7has fallen into the void!",
 		"game.death.by.any":"&c{KILLED} &7has died!",
@@ -26,6 +26,28 @@
 		"channel.toggle.report": "&cReport",
 		"channel.toggle.cloud": "&cCloud",
 		"channel.toggle.anticheat": "&cAnticheat",
+
+		"ffa.form.team.tile": "Team",
+		"ffa.form.team.createTeam": "§aCreate Team",
+		"ffa.form.team.showTeam": "§bShow Team",
+		"ffa.form.team.invitations": "§dInvitations",
+
+		"ffa.form.showTeam.title": "§bYour Team",
+		"ffa.form.showTeam.members": "§bMembers",
+		"ffa.form.showTeam.delete": "§cDelete",
+		"ffa.form.showTeam.leave": "§cLeave",
+
+		"ffa.form.showTeamMembers.title": "§bMembers",
+		"ffa.form.showTeamMembers.gungameText": "§7Level: {LEVEL}",
+
+		"ffa.form.showTeamMember.title": "§f{MEMBER}",
+		"ffa.form.showTeamMember.promote": "§bMembers",
+		"ffa.form.showTeamMember.kick": "§bMembers",
+
+		"ffa.form.teamInvitations.title": "§dInvitations",
+		"ffa.form.teamInvitations.invite": "§fTeam invite from\n§c{OWNER}",
+
+		"ffa.team.promote.failed": "§c{MEMBER} is not a team member anymore!",
 
 		"mlgrush.queue.join": "&aYou have joined the queue!",
 		"mlgrush.queue.left": "&aYou left the queue!",
