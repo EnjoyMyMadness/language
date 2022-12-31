@@ -50,6 +50,10 @@
 		"ffa.form.teamInvitations.title": "§dInvitations",
 		"ffa.form.teamInvitations.invite": "§fTeam invite from\n§c{OWNER}",
 
+		"ffa.form.selectedTeamInvite.title": "§dInvitation from §c{OWNER}",
+		"ffa.form.selectedTeamInvite.accept": "§aAccept",
+		"ffa.form.selectedTeamInvite.decline": "§cDecline",
+
 		"ffa.team.promote.failed": "§c{MEMBER} is not a team member anymore!",
 		"ffa.team.join.reachedMemberLimit": "§c{OWNER}'s team has reached the member limit!",
 		"ffa.team.join.someone": "§a{MEMBER} has joined your team!",
@@ -63,6 +67,7 @@
 		"ffa.team.invite.alreadyInvited": "§cYou've already invited {TO} to your team!",
 		"ffa.team.invite.someone": "§c{MEMBER} was invited to your team!",
 		"ffa.team.invite.yourself": "§c{OWNER} sent you a team invitation!",
+		"ffa.team.invite.expired": "§cThis invitation is expired!",
 
 		"gungame.item.team.name": "§9Team",
 

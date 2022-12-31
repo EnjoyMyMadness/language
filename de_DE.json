@@ -50,6 +50,10 @@
     "ffa.form.teamInvitations.title": "§dEinladungen",
     "ffa.form.teamInvitations.invite": "§fEinladung von\n§c{OWNER}",
 
+    "ffa.form.selectedTeamInvite.title": "§dEinladung von §c{OWNER}",
+    "ffa.form.selectedTeamInvite.accept": "§aAkzeptieren",
+    "ffa.form.selectedTeamInvite.decline": "§cAblehnen",
+
     "ffa.team.promote.failed": "§c{MEMBER} is nicht mehr in deinem Team!",
     "ffa.team.join.reachedMemberLimit": "§c{OWNER}'s Team hat das Mitgliederlimit erreicht!",
     "ffa.team.join.someone": "§a{MEMBER} ist deinem Team beigetreten!",
@@ -61,8 +65,9 @@
     "ffa.team.invite.alreadyInYourTeam": "§c{TO} ist bereits in deinem Team!",
     "ffa.team.invite.alreadyHasTeam": "§c{TO} ist bereits in einem Team!",
     "ffa.team.invite.alreadyInvited": "§cDu hast {TO} bereits in dein Team eingeladen!",
-    "ffa.team.invite.someone": "§c{MEMBER} wurde in dein Team eingeladen!",
-    "ffa.team.invite.yourself": "§c{OWNER} hat dir eine Team einladung gesendet!",
+    "ffa.team.invite.someone": "§a{MEMBER} wurde in dein Team eingeladen!",
+    "ffa.team.invite.yourself": "§a{OWNER} hat dir eine Team einladung gesendet!",
+    "ffa.team.invite.expired": "§cDiese Einladung ist abgelaufen!",
 
     "gungame.item.team.name": "§9Team",
 
