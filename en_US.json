@@ -27,9 +27,9 @@
 		"channel.toggle.cloud": "&cCloud",
 		"channel.toggle.anticheat": "&cAnticheat",
 
-		"ffa.form.team.title": "Team",
+		"ffa.form.team.title": "§9Team",
 		"ffa.form.team.createTeam": "§aCreate Team",
-		"ffa.form.team.showTeam": "§bShow Team",
+		"ffa.form.team.showTeam": "§bYour Team",
 		"ffa.form.team.invitations": "§dInvitations",
 
 		"ffa.form.showTeam.title": "§bYour Team",
@@ -42,8 +42,10 @@
 		"ffa.form.showTeamMembers.gungameText": "§7Level: {LEVEL}",
 
 		"ffa.form.showTeamMember.title": "§f{MEMBER}",
-		"ffa.form.showTeamMember.promote": "§bMembers",
-		"ffa.form.showTeamMember.kick": "§bMembers",
+		"ffa.form.showTeamMember.promote": "§gPromote",
+		"ffa.form.showTeamMember.kick": "§cKick",
+
+		"ffa.form.inviteMember.title": "§dInvite member",
 
 		"ffa.form.teamInvitations.title": "§dInvitations",
 		"ffa.form.teamInvitations.invite": "§fTeam invite from\n§c{OWNER}",
@@ -54,13 +56,15 @@
 		"ffa.team.join.yourself": "§aYou joined {OWNER}'s team!",
 		"ffa.team.left.someone": "§c{MEMBER} has left your team!",
 		"ffa.team.left.yourself": "§cYou left {OWNER}'s team!",
-		"ffa.team.disbanded": "§cYour team was disbanded",
+		"ffa.team.disbanded": "§cYour team was disbanded!",
 		"ffa.team.invite.reachedMemberLimit": "§cYour team has reached the member limit!",
 		"ffa.team.invite.alreadyInYourTeam": "§c{TO} is already in your team!",
 		"ffa.team.invite.alreadyHasTeam": "§c{TO} is already in a team!",
 		"ffa.team.invite.alreadyInvited": "§cYou've already invited {TO} to your team!",
 		"ffa.team.invite.someone": "§c{MEMBER} was invited to your team!",
 		"ffa.team.invite.yourself": "§c{OWNER} sent you a team invitation!",
+
+		"gungame.item.team.name": "§9Team",
 
 		"mlgrush.queue.join": "&aYou have joined the queue!",
 		"mlgrush.queue.left": "&aYou left the queue!",
