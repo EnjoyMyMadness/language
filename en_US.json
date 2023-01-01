@@ -123,6 +123,8 @@
 		"command.build.disabled": "PREFIX}&cYou can now no longer build!",
 		"command.not.found": "{PREFIX}§cThe command §4{COMMAND} §cwas not found§7!",
 
+		"lobby.non.existent.survey": "Currently there is no survey",
+
 		"clan.name.already.exists": "&cThe clan name already exists!",
 		"clan.tag.already.exists": "&cThe clantag already exists!",
 		"clan.cannot.transfer.yourself": "&cYou can't transfer the ownership of your clan to yourself!",
@@ -191,6 +193,8 @@
 
 		"cloud.match.starting.in": "§aRound starts in §e{SECONDS} §aSeconds",
 		"cloud.information.not.found": "§cNo cloud results found",
-		"cloud.map.info": "§aThe current map is: §e{MAP}"
+		"cloud.map.info": "§aThe current map is: §e{MAP}",
+		"game.record.started": "&aDie Aufzeichnung des Replays wird gestartet.",
+		"game.record.stopped": "&cDie Aufzeichnung der Runde wird gestoppt."
 	}
 }
