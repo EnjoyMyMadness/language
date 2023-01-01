@@ -69,7 +69,7 @@
     "ffa.team.invite.yourself": "§a{OWNER} hat dir eine Team einladung gesendet!",
     "ffa.team.invite.expired": "§cDiese Einladung ist abgelaufen!",
 
-    "gungame.item.team.name": "§9Team",
+    "gungame.item.team.name": "§rTeam",
 
     "mlgrush.queue.join": "&aDu hast die Warteschlange betreten!",
     "mlgrush.queue.left": "&cDu hast die Warteschlange verlassen!",
