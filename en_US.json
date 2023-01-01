@@ -65,8 +65,8 @@
 		"ffa.team.invite.alreadyInYourTeam": "§c{TO} is already in your team!",
 		"ffa.team.invite.alreadyHasTeam": "§c{TO} is already in a team!",
 		"ffa.team.invite.alreadyInvited": "§cYou've already invited {TO} to your team!",
-		"ffa.team.invite.someone": "§c{MEMBER} was invited to your team!",
-		"ffa.team.invite.yourself": "§c{OWNER} sent you a team invitation!",
+		"ffa.team.invite.someone": "§a{MEMBER} was invited to your team!",
+		"ffa.team.invite.yourself": "§a{OWNER} sent you a team invitation!",
 		"ffa.team.invite.expired": "§cThis invitation is expired!",
 
 		"gungame.item.team.name": "§r§9Team",
