@@ -193,7 +193,7 @@
 
     "cloud.match.starting.in": "§aRunde startet in §e{SECONDS} §aSekunden",
     "cloud.information.not.found": "§cKeine Cloud-Ergebnisse gefunden",
-    "cloud.map.info": "§aDie aktuelle Map ist: §e{MAP}"
+    "cloud.map.info": "§aDie aktuelle Map ist: §e{MAP}",
     		"game.record.stopped": "&cThe replay recording is stopped"
   }
 }
