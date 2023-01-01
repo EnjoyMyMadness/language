@@ -194,7 +194,7 @@
 		"cloud.match.starting.in": "§aRound starts in §e{SECONDS} §aSeconds",
 		"cloud.information.not.found": "§cNo cloud results found",
 		"cloud.map.info": "§aThe current map is: §e{MAP}",
-		"game.record.started": "&aDie Aufzeichnung des Replays wird gestartet.",
-		"game.record.stopped": "&cDie Aufzeichnung der Runde wird gestoppt."
+		"game.record.started": "§aRecording of the round was started.",
+		"game.record.stopped": "§cRecording of the round was stopped."
 	}
 }
