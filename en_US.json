@@ -89,7 +89,7 @@
 		"party.success.join": "&aYou've joined the party of &g{OWNER}&7!",
 		"party.confirm.delete": "&cAre you sure you want to delete your party?",
 		"player.already.another.party": "&c{PLAYER} is already in another party!",
-		"player.invited.another": "&c{PLAYER} was invited to your party!",
+		"player.invited.another": "&a{PLAYER} was invited to your party!",
 		"party.request.pending": "{PARTY_PREFIX}&7You have been invited to a party by &b{BY}&7!",
 		"player.partyless": "&cYou aren't in any party!",
 
