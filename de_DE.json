@@ -125,7 +125,7 @@
     "command.build.disabled": "PREFIX}&cDu kannst nun nicht mehr bauen!",
     "command.not.found": "{PREFIX}§cDer Command §4{COMMAND} §cwurde nicht gefunden§7!",
 
-    "lobby.non.existent.survey": "Derzeit gibt es keine Umfrage",
+    "lobby.nonexistent.survey": "Derzeit gibt es keine Umfrage",
 
     "clan.name.already.exists": "&cDer Clanname existiert bereits!",
     "clan.tag.already.exists": "&cDer Clantag existiert bereits!",
