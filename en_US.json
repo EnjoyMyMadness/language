@@ -1,7 +1,7 @@
 {
 	"name": "English",
 	"localeCode": "en_US",
-	"contributors": ["ceepkev77", "SyntaxPE", "zSALLAZAR"],
+	"contributors": ["ceepkev77", "SyntaxPE", "zSALLAZAR", "Vxschlxfner", "RealSertrix"],
 	"prefix": "§eZefera§6MC §8»§r ",
 	"values": {
 		"kick.message.maintenance": "§cZeferaMC is in maintenance!",
@@ -10,7 +10,7 @@
 		"deathmatch.countdown.seconds": "&7Deathmatch starts in &b{TIME}&7 seconds!",
 		"game.death.by.player":"&c{KILLED} &7was killed by &c{KILLER}&7!",
 		"game.death.by.void":"&c{KILLED} &7has fallen into the void!",
-		"game.death.by.any":"&c{KILLED} &7has died!",
+		"game.death.by.any":"&c{KILLED} &7died!",
 		"game.death.final":"&c{KILLED} &7was eliminated!",
 
 		"bedwars.bed.destroyed": "§c{TEAM} §cBed §cgot destroyed by {DESTROYER}§c!",
@@ -113,6 +113,8 @@
 		"command.networkinfo.result": "{PREFIX}&7There are currently &e{REGPLAYERS} &7players registered!",
 
 		"coins.see": "&7You currently have &6{COINS} &7coins!",
+		"not.enough.coins": "&cYou don't have enough &7Coins &cto buy this. You are missing: &6{NEEDED} &cCoins",
+
 		"player.removed.coins.another": "&7You removed &6{COINS} &7coins from &b{REMOVEPLAYER}&7!",
 		"player.set.coins.another": "&7You have set the coins from &e{TOPLAYER} to &6{COINS}&7!",
 		"player.added.coins.another": "&7You gave &e{ADDPLAYER} &6{COINS} coins&7!",
@@ -194,7 +196,7 @@
 		"cloud.match.starting.in": "§aRound starts in §e{SECONDS} §aSeconds",
 		"cloud.information.not.found": "§cNo cloud results found",
 		"cloud.map.info": "§aThe current map is: §e{MAP}",
-		"game.record.started": "§aRecording of the round was started.",
-		"game.record.stopped": "§cRecording of the round was stopped."
+		"game.record.started": "§aThe recording of the round was started.",
+		"game.record.stopped": "§cThe recording of the round was stopped."
 	}
 }

@@ -1,7 +1,7 @@
 {
   "name": "Deutsch",
   "localeCode": "de_DE",
-  "contributors": ["ceepkev77", "SyntaxPE", "zSALLAZAR"],
+  "contributors": ["ceepkev77", "SyntaxPE", "zSALLAZAR", "Vxschlxfner", "RealSertrix"],
   "prefix": "§eZefera§6MC §8»§r ",
   "values": {
     "kick.message.maintenance": "§cZeferaMC ist in Wartungsarbeiten!",
@@ -113,6 +113,8 @@
     "command.networkinfo.result": "{PREFIX}&7Es sind zurzeit &e{REGPLAYERS} &7Spieler registriert!",
 
     "coins.see": "&7Du besitzt &6{COINS} &7Coins!",
+    "not.enough.coins": "&cDu hast nicht genug &7Coins &cum das zu kaufen. Dir fehlen: &6{NEEDED}",
+
     "player.removed.coins.another": "&7Du hast &b{REMOVEPLAYER} &6{COINS} &7weggenommen!",
     "player.set.coins.another": "&7Du hast die Coins von &e{TOPLAYER} auf &6{COINS} &7gesetzt!",
     "player.added.coins.another": "&7Du hast &e{ADDPLAYER} &6{COINS} Coins &7gegeben!",
