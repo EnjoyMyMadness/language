@@ -27,6 +27,9 @@
 		"channel.toggle.cloud": "&cCloud",
 		"channel.toggle.anticheat": "&cAnticheat",
 
+		"command.spectate.enabled": "&aYou are now in the Spectator mode.",
+		"command.spectate.disabled": "&cYou are no longer in Spectator mode.",
+
 		"ffa.form.team.title": "§9Team",
 		"ffa.form.team.createTeam": "§aCreate Team",
 		"ffa.form.team.showTeam": "§bYour Team",
